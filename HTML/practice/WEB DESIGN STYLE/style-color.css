@@ -56,15 +56,16 @@ span {
 }
 .fonts {
   background-color: #f704ea;
-  color: #000;
+  color: #312424;
 }
 .tans {
   background-color: tan;
   color: #f30606;
 }
 .coloris {
-  background-color: black;
-  color: rgb(247, 4, 234);
+  background-color: rgb(196, 129, 129);
+  color: rgb(199, 4, 189);
+  border: 3px solid;
 }
 #Tans {
   display: grid;
