@@ -64,20 +64,37 @@ span {
 }
 .coloris {
   background-color: rgb(196, 129, 129);
-  color: rgb(199, 4, 189);
+  color: #f704ea;
   border: 3px solid;
 }
-#Tans {
+/*#Tans {
   display: grid;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: 2fr 2fr;
   grid-auto-columns: 3fr;
   gap: 10px;
-}
-*/ .Tans {
+}*/
+
+.Tans {
   display: grid;
   grid-template-rows: 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-auto-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 2fr;
   gap: 10px;
+}
+.tans {
+  background-color: #f4a460;
+  color: #f01111;
+}
+.khaki {
+  background-color: #f0e68c;
+}
+.black {
+  background-color: #000;
+}
+.grey {
+  background-color: #808080;
+  color: #04f855;
+  letter-spacing: 1.25em;
+  grid-column: span 3;
 }
