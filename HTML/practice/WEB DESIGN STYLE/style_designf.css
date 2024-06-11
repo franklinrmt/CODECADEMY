@@ -97,3 +97,11 @@ span {
   font-size: larger;
   color: #fff;
 }
+/* footer styling starts here*/
+footer {
+  color: rgba(128, 128, 128, 0.15);
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+/*footer styling ends here*/
