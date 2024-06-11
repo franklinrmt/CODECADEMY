@@ -35,4 +35,13 @@ body {
   background-color: #bf408a99;
   color: #ffff00;
 }
+.background {
+  position: absolute;
+  top: 25px;
+  left: 50%;
+  background-color: rgba(255, 166, 0, 0.4);
+  color: blue;
+  width: 30vw;
+  height: 45vh;
+}
 
